@@ -1,0 +1,28 @@
+table{
+    background: #666;
+    border-radius: 10px;
+    width: auto;
+    margin-left: 40% 
+}
+td{
+    padding-bottom: 10px;
+
+}
+
+button{
+    width: 50px;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+#Backspace{
+    width: 115px;
+    
+}
+
+#inputLable{
+    background: silver;
+    padding: 10px;
+    text-align: right;
+}
+
